@@ -27,6 +27,7 @@ hr {
     border-radius: 20px;
     padding: 30px;
     margin-bottom: 20px;
+    font-size: 18px;
 }
 
 .text-thin {
@@ -40,6 +41,10 @@ hr {
 
 h2, h4 {
     color: aliceblue;
+}
+
+.main-title {
+    margin-bottom: 25px;
 }
 
 /* Remove margins and padding from the list, and add a black background color */
