@@ -27,7 +27,7 @@ hr {
     border-radius: 20px;
     padding: 30px;
     margin-bottom: 20px;
-    font-size: 18px;
+    font-size: 20px;
     display: inline-block;
 }
 
@@ -40,12 +40,16 @@ hr {
     margin-top: 15px;
 }
 
-h2, h4 {
+h2, h3, h4 {
     color: aliceblue;
 }
 
 .main-title {
     margin-bottom: 25px;
+}
+
+.main h2 {
+    color: #2d3c49;
 }
 
 .table>tbody>tr>td {
