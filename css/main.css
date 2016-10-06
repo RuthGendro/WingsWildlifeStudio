@@ -33,15 +33,19 @@ hr {
 
 .text-thin {
     font-weight: 100;
-    color: aliceblue;
+    color: #909ca7;
 }
 
 .title-logo {
     margin-top: 15px;
 }
 
-h2, h3, h4 {
+h2 {
     color: aliceblue;
+}
+
+h3, h4 {
+    color: #909ca7;
 }
 
 .main-title {
