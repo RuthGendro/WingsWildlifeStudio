@@ -56,6 +56,18 @@ h3, h4 {
     color: #2d3c49;
 }
 
+.fieldCare {
+    text-align: left;
+}
+
+.fieldCare li {
+    text-align: left;
+}
+
+#tags {
+    color: #d44444;
+}
+
 .table>tbody>tr>td {
     border-top: 1px solid #29343e;
 }
